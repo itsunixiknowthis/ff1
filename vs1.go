@@ -8,3 +8,6 @@ type T1 struct {
 func (t T1) F() string {
 	return "T1.F"
 }
+func (t T1) G() string {
+	return "T1.G"
+}
